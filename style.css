@@ -1,0 +1,17 @@
+body {
+  background-color: bisque; /* Example color */
+}
+html,
+body {
+  background-color: bisque !important;
+}
+.card-body {
+  height: 460px;
+  border: 1px solid blueviolet;
+  border-radius: 5px;
+  background-color: rgb(157, 230, 202);
+}
+
+.temp {
+  font-weight: bold;
+}
